@@ -14,6 +14,9 @@
 		<h1>브랜치 테스트 -김종혁</h1>
 		<h1>merge 이게 머지?</h1>
 		<h1>Git Branch Testing - YuJIn</h1>
+
+		<h1>Git Branch 2 Testing - YuJin</h1>
+
 	
 	</div>
 </body>
