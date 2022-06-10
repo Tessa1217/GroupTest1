@@ -14,6 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import co.edu.practice.common.Command;
 import co.edu.practice.home.command.Home;
+import co.edu.practice.movie.command.MovieList;
 
 @WebServlet("*.do")
 public class FrontController extends HttpServlet {
@@ -27,6 +28,7 @@ public class FrontController extends HttpServlet {
 	@Override
 	public void init(ServletConfig config) throws ServletException {
 		map.put("/home.do", new Home());
+		map.put("/movieList.do", new MovieList());
 	}
 
 	@Override
