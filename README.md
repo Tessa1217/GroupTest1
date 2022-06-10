@@ -1,6 +1,7 @@
 # GroupTest1
 
 백로그 참고: https://backlog.com/git-tutorial/kr/stepup/stepup2_1.html
+
 각자 브랜치 생성
 1. 브랜치 이름: 각자의 이름(영문으로) 브랜치 생성
   ($ git branch <branchname>)
