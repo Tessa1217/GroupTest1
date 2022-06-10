@@ -1,0 +1,3 @@
+1. 기존 소스파일 추가X 수정X 삭제X
+2. 충돌 가능성 있는 파일 (.settings/, .classpath, .project 등) 제외 처리(unstage)
+3. .gitignore 항목 추가
